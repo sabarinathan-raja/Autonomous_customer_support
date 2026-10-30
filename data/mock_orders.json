@@ -1,0 +1,24 @@
+
+{
+  "ORD-1042": {
+    "order_id": "ORD-1042",
+    "status": "delayed",
+    "tracking_status": "in_transit",
+    "delivered": false,
+    "promised_delivery": "2026-10-23"
+  },
+  "ORD-1043": {
+    "order_id": "ORD-1043",
+    "status": "shipped",
+    "tracking_status": "in_transit",
+    "delivered": false,
+    "promised_delivery": "2026-11-02"
+  },
+  "ORD-1044": {
+    "order_id": "ORD-1044",
+    "status": "delivered",
+    "tracking_status": "delivered",
+    "delivered": true,
+    "promised_delivery": "2026-10-25"
+  }
+}

@@ -1,0 +1,24 @@
+
+[
+  {
+    "policy_id": "DEL-04",
+    "category": "delivery",
+    "keywords": ["delivery", "delayed", "shipping", "tracking", "late"],
+    "content": "For delayed deliveries, verify the order status and tracking information. Check the applicable delivery policy before recommending a resolution. Escalate exceptions when the available policy does not clearly resolve the issue.",
+    "source": "Company Delivery Policy"
+  },
+  {
+    "policy_id": "REF-01",
+    "category": "refund",
+    "keywords": ["refund", "money back", "reimbursement"],
+    "content": "Refund eligibility must be checked against the applicable order details and refund conditions. Do not promise or confirm a refund unless eligibility is supported by the available policy and authorized process.",
+    "source": "Company Refund Policy"
+  },
+  {
+    "policy_id": "CAN-01",
+    "category": "cancellation",
+    "keywords": ["cancel", "cancellation", "stop order"],
+    "content": "Check the order status and applicable cancellation conditions before recommending cancellation. If eligibility is unclear, escalate for human review. Do not claim that an order has been cancelled unless the cancellation process confirms success.",
+    "source": "Company Cancellation Policy"
+  }
+]
